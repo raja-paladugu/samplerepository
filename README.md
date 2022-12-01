@@ -1,3 +1,0 @@
-# samplerepository
-"" randon ""
-" python file "
